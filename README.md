@@ -32,7 +32,7 @@ The Expense Tracker is a web application designed to help users track their expe
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/jibinjoseph22/expense-tracker.git
+   git clone https://github.com/Jibinjoseph22/Expense-tracker.git
    ```
 
 2. **Navigate to the Project Directory:**
