@@ -1,5 +1,6 @@
 
 # Expense Tracker
+![Screenshot 2024-08-28 103554](https://github.com/user-attachments/assets/f249063f-07de-414b-a4d9-8aac70c360b7)
 
 ## Overview
 
